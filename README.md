@@ -2,9 +2,7 @@
 
 Welcome to the English Dictionary Web Application! This is a user-friendly web tool that allows you to quickly find the meaning, pronunciation, example sentences, and synonyms for any English word. Whether you're a student, writer, or just someone looking to expand your vocabulary, this app is a perfect companion.
 
-![Application Screenshot](https://github.com/Koushik890/word-dictionary/blob/main/screenshot.png)
-
-*Include a screenshot of the application here by replacing `path/to/screenshot.png` with the actual path.*
+![Application Screenshot](https://github.com/Koushik890/word-dictionary/blob/main/Screenshot.png)
 
 ## Table of Contents
 
