@@ -126,4 +126,4 @@ For major changes, please open an issue first to discuss what you would like to 
 
 Below is a screen recording demonstrating the Word Dictionary in action:
 
-[![Watch the demonstration video](https://youtu.be/BOOtWNmYah0)](https://youtu.be/BOOtWNmYah0)
+[![Watch the demonstration video](https://img.youtube.com/vi/BOOtWNmYah0/0.jpg)](https://youtu.be/BOOtWNmYah0)
